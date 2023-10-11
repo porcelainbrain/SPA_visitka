@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+header p {
+    font-weight: bold;
+}
+
+.section {
+    padding: 20px;
+    text-align: left;
+    background-color: white;
+    border: 1px solid #ddd;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.section h2 {
+    font-size: 1.5rem;
+}
+
+.experience-item {
+    margin: 10px 0;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #0077b5;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
